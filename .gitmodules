@@ -1,0 +1,114 @@
+[submodule "bzip2"]
+	path = bzip2
+	url = ../bzip2
+[submodule "assimp"]
+	path = assimp
+	url = ../assimp
+[submodule "cairo"]
+	path = cairo
+	url = ../cairo
+[submodule "clientchannels"]
+	path = clientchannels
+	url = ../clientchannels
+[submodule "debugbreak"]
+	path = debugbreak
+	url = ../debugbreak
+[submodule "expat"]
+	path = expat
+	url = ../expat
+[submodule "freeimage"]
+	path = freeimage
+	url = ../freeimage
+[submodule "freetype"]
+	path = freetype
+	url = ../freetype
+[submodule "glm"]
+	path = glm
+	url = ../glm
+[submodule "iconv"]
+	path = iconv
+	url = ../iconv
+[submodule "id3lib"]
+	path = id3lib
+	url = ../id3lib
+[submodule "idn"]
+	path = idn
+	url = ../idn
+[submodule "jpeg"]
+	path = jpeg
+	url = ../jpeg
+[submodule "jxr"]
+	path = jxr
+	url = ../jxr
+[submodule "libarchive"]
+	path = libarchive
+	url = ../libarchive
+[submodule "libmpg123"]
+	path = libmpg123
+	url = ../libmpg123
+[submodule "libmysql"]
+	path = libmysql
+	url = ../libmysql
+[submodule "nanosvg"]
+	path = nanosvg
+	url = ../nanosvg
+[submodule "openexr"]
+	path = openexr
+	url = ../openexr
+[submodule "openjpeg"]
+	path = openjpeg
+	url = ../openjpeg
+[submodule "pcre"]
+	path = pcre
+	url = ../pcre
+[submodule "pixman"]
+	path = pixman
+	url = ../pixman
+[submodule "png"]
+	path = png
+	url = ../png
+[submodule "rawlite"]
+	path = rawlite
+	url = ../rawlite
+[submodule "sqlite"]
+	path = sqlite
+	url = ../sqlite
+[submodule "strophe"]
+	path = strophe
+	url = ../strophe
+[submodule "tiff4"]
+	path = tiff4
+	url = ../tiff4
+[submodule "webp"]
+	path = webp
+	url = ../webp
+[submodule "zlib"]
+	path = zlib
+	url = ../zlib
+[submodule "zstd"]
+	path = zstd
+	url = ../zstd
+[submodule "common"]
+	path = common
+	url = ../common-port
+[submodule "graphics3d-port"]
+	path = graphics3d-port
+	url = ../graphics3d-port
+[submodule "multimedia"]
+	path = multimedia
+	url = ../multimedia-port
+[submodule "graphics3d"]
+	path = graphics3d
+	url = ../graphics3d-port
+[submodule "audio"]
+	path = audio
+	url = ../audio-port
+[submodule "database"]
+	path = database
+	url = ../database-port
+[submodule "graphics"]
+	path = graphics
+	url = ../graphics-port
+[submodule "imaging"]
+	path = imaging
+	url = ../imaging-port
